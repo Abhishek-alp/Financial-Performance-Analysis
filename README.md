@@ -49,7 +49,7 @@ This shifted the organization from **reactive reporting** to **proactive strateg
 
 **Report Design**
 
-* P&L reports, Market vs. Target dashboards, Customer Performance reports.
+* P&L reports, Market vs. Target reports, Customer Performance reports.
 * Conditional formatting for highlighting growth and underperformance.
 
 ---
