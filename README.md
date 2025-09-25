@@ -70,7 +70,7 @@ This shifted the organization from **reactive reporting** to **proactive strateg
 * *What are the key drivers of Gross Margin % changes across quarters and sub-zones?*
 * *How do sales trends and profitability vary across fiscal years (Sept–Aug)?*
 * *Which customers are top contributors to revenue growth?*
-  👉 [GM% by Quaters(sub-zone)](https://github.com/Abhishek-alp/Financial-Performance-Analysis/blob/main/GM% by Quaters(sub-zone).pdf)
+  👉 [[GM% by Quaters(sub-zone)](https://github.com/Abhishek-alp/Financial-Performance-Analysis/blob/main/GM%25%20by%20Quaters(sub-zone).pdf)
   👉 [[P&L for Markets](https://github.com/Abhishek-alp/Financial-Performance-Analysis/blob/main/P%26L%20for%20Markets.pdf)
   👉 [Market_Performance_vs_Target](https://github.com/Abhishek-alp/Financial-Performance-Analysis/blob/main/Market_Performance_vs_Target)
   👉 [P&L_Statement_by_FY](https://github.com/Abhishek-alp/Financial-Performance-Analysis/blob/main/P&L_Statement_by_FY.pdf)
